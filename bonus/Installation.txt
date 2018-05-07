@@ -1,0 +1,8 @@
+Open your application and go to Code Buidler/Generator Menu
+
+1. CLick Install Module and select wich zip file , one by one .
+2. open your phpmyadmin and import all sql files inside database folder 
+
+Enjoy . !
+
+Sximo Builder Team 
